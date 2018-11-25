@@ -7,11 +7,8 @@ const subtractNumbers = function(a,b) {
   return a-b;
 };
 
-const divideNumbers = function(a,b) {
-  return a/b;
-};
+console.log('Ninja')
 
-console.log(addNumbers(2, 5));
 
 console.log(subtractNumbers(5, 3));
 
