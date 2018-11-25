@@ -7,6 +7,8 @@ const subtractNumbers = function(a,b) {
   return a-b;
 };
 
+console.log('Ninja')
+
 
 console.log(addNumbers());
 
